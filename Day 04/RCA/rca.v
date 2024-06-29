@@ -1,6 +1,5 @@
 module ripple(sum,carry,a,b,cin);
-    input [3:0]a;
-    input [3:0]b;
+    input [3:0]a,b;
     input cin;
     output [3:0] sum;
     output carry;
