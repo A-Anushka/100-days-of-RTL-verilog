@@ -7,3 +7,4 @@ Day 04- Ripple carry adder <br>
 Day 05- Carry look ahead adder  <br>
 Day 06- 4-bit adder subtractor <br>
 Day 07- Ripple borrow subtractor <br>
+Day 08- Multiplexers - 2 to 1, 4 to 1  <br>
