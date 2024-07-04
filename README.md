@@ -8,3 +8,4 @@ Day 05- Carry look ahead adder  <br>
 Day 06- 4-bit adder subtractor <br>
 Day 07- Ripple borrow subtractor <br>
 Day 08- Multiplexers - 2 to 1, 4 to 1  <br>
+Day 09- Demultiplexers - 1 to 8, 1 to 16 (using 1:2 and 1:8 demultiplexers)  <br>
