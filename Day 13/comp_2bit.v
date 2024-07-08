@@ -10,4 +10,5 @@ and a3(AeqB,w1,w2);
 assign AgtB=(a[1] & ~b[1]) | (a[0] & ~b[1] & ~b[0]) | (a[1] & a[0] & ~b[0]);
 //A less than B
 assign AltB=(~a[1] & b[1]) | (~a[1] & ~a[0] & b[0]) | (~a[0] & b[1] & b[0]);
+    
 endmodule
