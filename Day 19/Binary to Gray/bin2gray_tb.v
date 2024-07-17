@@ -1,4 +1,5 @@
 module bin2gray_tb();
+  
 reg [3:0] b;
 wire [3:0] g;
 bin2gray a1(g,b);
