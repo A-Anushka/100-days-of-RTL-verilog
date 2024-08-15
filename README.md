@@ -22,3 +22,6 @@ Day 19- Binary to Gray Converter, Gray to Binary Converter <br>
 Day 20- BCD to Excess-3 Converter, Excess-3 to BCD Converter <br>
 Day 21- Even and Odd parity Generators <br>
 Day 22- Even and Odd parity Checkers <br>
+Day 23- Logic gates using Multiplexer <br>
+Day 24- Synchronous and Asynchronous Reset <br>
+Day 25- Master JK Flipflop <br>
